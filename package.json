@@ -1,0 +1,21 @@
+{
+  "name": "Social-media",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DexterTMyles/Social-Media.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://DexterTMyles.github.io/Social-media",
+  "bugs": {
+    "url": "https://github.com/DexterTMyles/Social-Media/issues"
+  },
+  "homepage": "https://github.com/DexterTMyles/Social-Media#readme"
+}
